@@ -1,0 +1,4 @@
+type,price,status,issues
+Intel,500,RESTOCKING,good
+Lenovo,100,SOLD,good
+Intex,300,SOLD,good
